@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 //import the web3 moduel
-import {Web3} from "web3";
+import {Web3} from "web3"
 import { useState } from 'react';
 
 //import the contruct address and the API
